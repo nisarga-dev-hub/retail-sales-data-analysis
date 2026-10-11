@@ -41,9 +41,7 @@ See `retail_sales_dashboard.png` in this repository for the sales visualization.
 3. Check the CSV file path.
 4. Run the cells in order.
 
-## Dataset
-Sample Superstore retail dataset. Add the original source link and applicable usage or license information before sharing the data publicly.
 
 ## Author
-Add your name and professional profile links here.# retail-sales-data-analysis
+sainisarga surpur# retail-sales-data-analysis
 Retail sales analysis using Python, Pandas, and Matplotlib
