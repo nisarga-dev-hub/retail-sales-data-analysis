@@ -41,6 +41,8 @@ See `retail_sales_dashboard.png` in this repository for the sales visualization.
 3. Check the CSV file path.
 4. Run the cells in order.
 
+## Dashboard
+![Retail Sales Performance Dashboard](retail_sales_dashboard.png)
 
 ## Author
 sainisarga surpur# retail-sales-data-analysis
